@@ -1,16 +1,16 @@
-## Hi there 👋
+## Swoyuj Bajracharya
 
-<!--
-**swoyuj/swoyuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Project Manager and Senior Full Stack Developer with 10+ years of experience.
 
-Here are some ideas to get you started:
+Based in Kathmandu, Nepal. Open to remote opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+C# · ASP.NET Core · SQL Server · REST APIs · Agile · Scrum
+
+**Currently open to**
+Technical PM roles · Senior developer contracts · Remote international work
+
+**Reach me**
+LinkedIn: https://www.linkedin.com/in/swoyuj-bajracharya/
+Email: swoyujbajracharya@gmail.com
+Portfolio: https://swoyujbajracharya.com.np
